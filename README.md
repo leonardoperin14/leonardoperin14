@@ -1,16 +1,20 @@
-## Hi there 👋
+Hey there 😎
 
-<!--
-**leonardoperin14/leonardoperin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Leonardo, a Salesforce-focused developer building scalable solutions on the Salesforce Platform.
 
-Here are some ideas to get you started:
+I design and develop custom applications using Apex, Lightning Web Components (LWC), and Flows — always aiming for clean architecture, performance, and business impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If a process can be automated, optimized, or better structured inside Salesforce, I’m probably already thinking about how to build it.
+
+Apex (Triggers, Classes, Batch, Queueable)
+=
+Lightning Web Components (LWC)
+=
+SOQL & Data Modeling
+=
+Flow & Process Automation
+=
+REST Integrations
+=
+Git & CI/CD for Salesforce
+=
