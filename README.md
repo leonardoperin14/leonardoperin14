@@ -1,22 +1,13 @@
-Hey there 😎
-=
-I'm Leonardo Perin, a Salesforce-focused developer building scalable solutions on the Salesforce Platform.
+Hey there 👋
 
-I design and develop custom applications using Apex, Lightning Web Components (LWC), and Flows. Always aiming for clean architecture, performance, and business impact.
+I'm Leonardo Perin, Computer Science student building production SaaS products with AI.
 
-If a process can be automated, optimized, or better structured inside Salesforce, I’m probably already thinking about how to build it.
+I create full-stack applications using Next.js, TypeScript, and Supabase, with a strong focus on AI agents and MCP (Model Context Protocol).
 
-Apex (Triggers, Classes, Batch, Queueable)
+Currently building:
+• NoctralSpy — Market intelligence platform for mobile apps (500+ users, ~R$ 2k MRR)
+• SEO Agent — MCP that connects AI agents to Google Search Console
 
-Lightning Web Components (LWC)
+Interested in AI agents, product engineering, and building tools that agents can actually use.
 
-SOQL & Data Modeling
-
-Flow & Process Automation
-
-REST Integrations
-
-Git & CI/CD for Salesforce
-
-I’m actively looking for opportunities as a Salesforce Developer where I can contribute, learn fast, and build impactful solutions.
-Let’s build something great.
+Open to opportunities in AI / Product Engineering.
